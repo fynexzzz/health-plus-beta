@@ -1,1 +1,23 @@
-{}
+{
+  "[project]/src/components/wellness/HeartRateMetric.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/wellness/HeartRateMetric.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_e3bc7c68._.js",
+      "static/chunks/src_components_wellness_HeartRateMetric_tsx_892232ac._.js"
+    ]
+  },
+  "[project]/src/components/wellness/CaloriesMetric.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/wellness/CaloriesMetric.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_6b976cc9._.js",
+      "static/chunks/src_components_wellness_CaloriesMetric_tsx_892232ac._.js"
+    ]
+  },
+  "[project]/src/components/wellness/StepsMetric.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/src/components/wellness/StepsMetric.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_cb5566aa._.js",
+      "static/chunks/src_components_wellness_StepsMetric_tsx_892232ac._.js"
+    ]
+  }
+}
